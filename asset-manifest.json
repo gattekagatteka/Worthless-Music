@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Worthless-Music/static/css/main.14e7dda5.css",
-    "main.js": "/Worthless-Music/static/js/main.932861cd.js",
+    "main.js": "/Worthless-Music/static/js/main.ac9812cd.js",
     "static/media/wm-background.mp4": "/Worthless-Music/static/media/wm-background.905ef3736cf5cfa1b11f.mp4",
     "static/media/nh-cover.jpg": "/Worthless-Music/static/media/nh-cover.3c47e6a3755c1601de57.jpg",
     "static/media/w0rthL3SS.JPEG": "/Worthless-Music/static/media/w0rthL3SS.c26151e836a85f1f83a6.JPEG",
@@ -10,12 +10,13 @@
     "static/media/light.ttf": "/Worthless-Music/static/media/light.583f630dfd1f0a5986bc.ttf",
     "static/media/medium.ttf": "/Worthless-Music/static/media/medium.570fe728bb7642e6f0cb.ttf",
     "static/media/obizhaesh.jpg": "/Worthless-Music/static/media/obizhaesh.ca23873c44887bf1e9a7.jpg",
+    "static/media/wm-logo.png": "/Worthless-Music/static/media/wm-logo.7d5fc394a2d9ea049fb5.png",
     "index.html": "/Worthless-Music/index.html",
     "main.14e7dda5.css.map": "/Worthless-Music/static/css/main.14e7dda5.css.map",
-    "main.932861cd.js.map": "/Worthless-Music/static/js/main.932861cd.js.map"
+    "main.ac9812cd.js.map": "/Worthless-Music/static/js/main.ac9812cd.js.map"
   },
   "entrypoints": [
     "static/css/main.14e7dda5.css",
-    "static/js/main.932861cd.js"
+    "static/js/main.ac9812cd.js"
   ]
 }
