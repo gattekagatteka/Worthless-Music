@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./style.css";
+import logo from "./wm-logo.png";
 
 function Header() {
   return (
@@ -8,7 +9,7 @@ function Header() {
       <div className="nav-wrapper">
         <Link to="/home" className="brand-logo center">
           <img
-            src="./wm-logo.png"
+            src={logo}
             alt="logo"
             style={{ width: "80px", height: "80px", marginTop: "10px" }}
           />
