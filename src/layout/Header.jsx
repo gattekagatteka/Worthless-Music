@@ -8,7 +8,7 @@ function Header() {
       <div className="nav-wrapper">
         <Link to="/home" className="brand-logo center">
           <img
-            src="/wm-logo.png"
+            src="./wm-logo.png"
             alt="worthless music"
             style={{ width: "80px", height: "80px", marginTop: "10px" }}
           />
