@@ -9,7 +9,7 @@ function Header() {
         <Link to="/home" className="brand-logo center">
           <img
             src="./wm-logo.png"
-            alt="worthless music"
+            alt="logo"
             style={{ width: "80px", height: "80px", marginTop: "10px" }}
           />
         </Link>
