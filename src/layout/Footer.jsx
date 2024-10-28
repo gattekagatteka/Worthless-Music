@@ -1,4 +1,5 @@
 import React from "react";
+import logo from "./wm-logo.png";
 
 function Footer() {
   return (
@@ -7,7 +8,7 @@ function Footer() {
         <div className="row">
           <div className="col l6 s12">
             <img
-              src="./wm-logo.png"
+              src={logo}
               alt="logo"
               style={{ width: "200px", height: "200px" }}
             />
